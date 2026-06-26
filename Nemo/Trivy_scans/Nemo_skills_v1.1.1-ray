@@ -1,0 +1,1071 @@
+
+Report Summary
+
+┌──────────────────────────────────────────────────────────────────────────────────┬────────────┬─────────────────┐
+│                                      Target                                      │    Type    │ Vulnerabilities │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ nvflow-nemo-skills:v1.1.1-ray (ubuntu 22.04)                                     │   ubuntu   │       55        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/gradio/package.json                       │  node-pkg  │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/gradio/templates/node/build/node_modules- │  node-pkg  │        0        │
+│ /eventemitter3/package.json                                                      │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/gradio/templates/node/build/node_modules- │  node-pkg  │        0        │
+│ /follow-redirects/package.json                                                   │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/gradio/templates/node/build/node_modules- │  node-pkg  │        0        │
+│ /http-proxy/package.json                                                         │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/gradio/templates/node/build/node_modules- │  node-pkg  │        0        │
+│ /requires-port/package.json                                                      │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/gradio_client/package.json                │  node-pkg  │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ opt/NeMo-Skills/nemo_skills.egg-info/PKG-INFO                                    │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/PySocks-1.7.1.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/Unidecode-1.4.0.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/absl_py-2.4.0.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/ai21-4.3.0.dist-info/METADATA             │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/aiofiles-25.1.0.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/aiohappyeyeballs-2.6.2.dist-info/METADATA │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/aiohttp-3.13.4.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/aiohttp_cors-0.8.1.dist-info/METADATA     │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/aiosignal-1.4.0.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/annotated_doc-0.0.4.dist-info/METADATA    │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/annotated_types-0.7.0.dist-info/METADATA  │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/anthropic-0.112.0.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/antlr4_python3_runtime-4.9.3.dist-info/M- │ python-pkg │        0        │
+│ ETADATA                                                                          │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/anyascii-0.3.3.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/anyio-4.9.0.dist-info/METADATA            │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/appdirs-1.4.4.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/argcomplete-3.6.3.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/asttokens-3.0.1.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/async_timeout-5.0.1.dist-info/METADATA    │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/attrs-26.1.0.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/audioread-3.1.0.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/backoff-2.2.1.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/bcrypt-5.0.0.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/beautifulsoup4-4.15.0.dist-info/METADATA  │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/bfcl_eval-0.0.0.dev0.dist-info/METADATA   │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/black-26.5.1.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/blinker-1.9.0.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/blis-1.3.3.dist-info/METADATA             │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/boto3-1.43.36.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/botocore-1.43.36.dist-info/METADATA       │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/brotli-1.2.0.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/bs4-0.0.2.dist-info/METADATA              │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/catalogue-2.0.10.dist-info/METADATA       │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/certifi-2026.6.17.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/cffi-2.0.0.dist-info/METADATA             │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/chardet-7.4.3.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/charset_normalizer-3.4.7.dist-info/METAD- │ python-pkg │        0        │
+│ ATA                                                                              │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/click-8.4.2.dist-info/METADATA            │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/cloudpathlib-0.24.0.dist-info/METADATA    │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/cloudpickle-3.0.0.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/cohere-5.18.0.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/colorama-0.4.6.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/colorful-0.5.8.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/compute_eval-0.1.0.dist-info/METADATA     │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/confection-1.3.3.dist-info/METADATA       │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/contextlib2-21.6.0.dist-info/METADATA     │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/contractions-0.1.73.dist-info/METADATA    │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/cryptography-49.0.0.dist-info/METADATA    │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/cssutils-2.15.0.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/cymem-2.0.13.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/dashscope-1.26.0.dist-info/METADATA       │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/datamodel_code_generator-0.25.7.dist-inf- │ python-pkg │        0        │
+│ o/METADATA                                                                       │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/datasets-5.0.0.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/ddgs-9.14.4.dist-info/METADATA            │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/decorator-5.3.1.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/deprecated-1.3.1.dist-info/METADATA       │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/diff_match_patch-20241021.dist-info/META- │ python-pkg │        0        │
+│ DATA                                                                             │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/dill-0.4.1.dist-info/METADATA             │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/diskcache-5.6.3.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/distlib-0.4.3.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/distro-1.9.0.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/dnspython-2.8.0.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/docker-7.1.0.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/docstring_parser-0.18.0.dist-info/METADA- │ python-pkg │        0        │
+│ TA                                                                               │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/dotenv-0.9.9.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/durationpy-0.10.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/edgartools-5.20.2.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/editdistance-0.8.1.dist-info/METADATA     │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/email_validator-2.3.0.dist-info/METADATA  │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/emoji-2.15.0.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/en_core_web_sm-3.8.0.dist-info/METADATA   │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/encutils-1.0.0.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/et_xmlfile-2.0.0.dist-info/METADATA       │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/eval_type_backport-0.4.0.dist-info/METAD- │ python-pkg │        0        │
+│ ATA                                                                              │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/evalplus-0.3.0.dev27.dist-info/METADATA   │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/exceptiongroup-1.3.1.dist-info/METADATA   │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/execnet-2.1.2.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/executing-2.2.1.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/fabric-3.2.3.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/faiss_cpu-1.11.0.dist-info/METADATA       │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/fake_useragent-2.2.0.dist-info/METADATA   │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/fastapi-0.138.1.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/fastavro-1.12.2.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/fastuuid-0.14.0.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/ffmpeg-1.4.dist-info/METADATA             │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/fiddle-0.3.0.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/filelock-3.29.4.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/fire-0.7.1.dist-info/METADATA             │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/flask-3.1.3.dist-info/METADATA            │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/frozendict-2.4.7.dist-info/METADATA       │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/frozenlist-1.8.0.dist-info/METADATA       │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/fsspec-2026.4.0.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/func_timeout-4.3.5.dist-info/METADATA     │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/gdown-6.1.0.dist-info/METADATA            │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/genson-1.3.0.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/gitdb-4.0.12.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/gitpython-3.1.50.dist-info/METADATA       │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/google_api_core-2.31.0.dist-info/METADATA │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/google_auth-2.55.1.dist-info/METADATA     │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/google_cloud_core-2.6.0.dist-info/METADA- │ python-pkg │        0        │
+│ TA                                                                               │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/google_cloud_storage-3.12.0.dist-info/ME- │ python-pkg │        0        │
+│ TADATA                                                                           │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/google_crc32c-1.8.0.dist-info/METADATA    │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/google_genai-2.10.0.dist-info/METADATA    │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/google_resumable_media-2.10.0.dist-info/- │ python-pkg │        0        │
+│ METADATA                                                                         │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/google_search_results-2.4.2.dist-info/ME- │ python-pkg │        0        │
+│ TADATA                                                                           │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/googleapis_common_protos-1.75.0.dist-inf- │ python-pkg │        0        │
+│ o/METADATA                                                                       │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/gradio-6.15.1.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/gradio_client-2.5.0.dist-info/METADATA    │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/graphviz-0.21.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/groovy-0.1.2.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/grpcio-1.81.1.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/h11-0.16.0.dist-info/METADATA             │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/h2-4.3.0.dist-info/METADATA               │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/hf_gradio-0.4.1.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/hf_xet-1.5.1.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/hpack-4.2.0.dist-info/METADATA            │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/html2text-2025.4.15.dist-info/METADATA    │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/httpcore-1.0.9.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/httpcore2-2.5.0.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/httpx-0.28.1.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/httpx2-2.5.0.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/httpx_sse-0.4.0.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/httpxthrottlecache-0.5.0.dist-info/METAD- │ python-pkg │        0        │
+│ ATA                                                                              │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/huggingface_hub-1.16.1.dist-info/METADATA │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/humanize-4.15.0.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/hydra_core-1.3.3.dist-info/METADATA       │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/hyperframe-6.1.0.dist-info/METADATA       │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/idna-3.18.dist-info/METADATA              │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/immutabledict-4.3.1.dist-info/METADATA    │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/importlib_metadata-8.5.0.dist-info/METAD- │ python-pkg │        0        │
+│ ATA                                                                              │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/inflect-5.6.2.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/iniconfig-2.3.0.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/inquirerpy-0.3.4.dist-info/METADATA       │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/invoke-2.2.1.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/ipython-8.39.0.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/iso639_lang-2.6.3.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/isort-5.13.2.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/itsdangerous-2.2.0.dist-info/METADATA     │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/jedi-0.20.0.dist-info/METADATA            │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/jinja2-3.1.6.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/jiter-0.15.0.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/jmespath-1.1.0.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/joblib-1.5.3.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/json5-0.15.0.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/jsonlines-4.0.0.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/jsonschema-4.23.0.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/jsonschema_specifications-2025.9.1.dist-- │ python-pkg │        0        │
+│ info/METADATA                                                                    │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/koifeval-0.1.0.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/kubernetes-36.0.0.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/langcodes-3.5.1.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/langdetect-1.0.9.dist-info/METADATA       │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/language_data-1.4.0.dist-info/METADATA    │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/latex2sympy2_extended-1.11.0.dist-info/M- │ python-pkg │        0        │
+│ ETADATA                                                                          │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/lazy_loader-0.5.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/ledoc_ui-0.1.0.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/leptonai-0.27.3.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/libcst-1.8.6.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/librosa-0.11.0.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/litellm-1.89.4.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/llvmlite-0.47.0.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/loguru-0.7.3.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/lxml-6.1.1.dist-info/METADATA             │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/marisa_trie-1.4.1.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/markdown_it_py-4.2.0.dist-info/METADATA   │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/markdownify-1.2.2.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/markupsafe-3.0.3.dist-info/METADATA       │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/math_verify-0.9.0.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/matplotlib_inline-0.2.2.dist-info/METADA- │ python-pkg │        0        │
+│ TA                                                                               │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/mcp-1.28.1.dist-info/METADATA             │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/mdurl-0.1.2.dist-info/METADATA            │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/mistralai-1.12.4.dist-info/METADATA       │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/model_library-0.1.8.dist-info/METADATA    │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/mpmath-1.3.0.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/msgpack-1.2.1.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/multidict-6.7.1.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/multipledispatch-1.0.0.dist-info/METADATA │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/multiprocess-0.70.19.dist-info/METADATA   │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/murmurhash-1.0.15.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/mypy_extensions-1.1.0.dist-info/METADATA  │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/nemo_evaluator_launcher-0.1.46.dist-info- │ python-pkg │        0        │
+│ /METADATA                                                                        │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/nemo_run-0.11.0+416a0a7.dist-info/METADA- │ python-pkg │        0        │
+│ TA                                                                               │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/nemo_skills-0.7.0.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/nest_asyncio-1.6.0.dist-info/METADATA     │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/networkx-3.3.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/numba-0.65.1.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/numpy-2.1.3.dist-info/METADATA            │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/oauthlib-3.3.1.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/omegaconf-2.3.1.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/openai-2.24.0.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/opencensus-0.11.4.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/opencensus_context-0.1.3.dist-info/METAD- │ python-pkg │        0        │
+│ ATA                                                                              │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/openpyxl-3.1.5.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/opentelemetry_api-1.43.0.dist-info/METAD- │ python-pkg │        0        │
+│ ATA                                                                              │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/opentelemetry_exporter_otlp_proto_common- │ python-pkg │        0        │
+│ -1.43.0.dist-info/METADATA                                                       │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/opentelemetry_exporter_otlp_proto_http-1- │ python-pkg │        0        │
+│ .43.0.dist-info/METADATA                                                         │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/opentelemetry_exporter_prometheus-0.64b0- │ python-pkg │        0        │
+│ .dist-info/METADATA                                                              │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/opentelemetry_proto-1.43.0.dist-info/MET- │ python-pkg │        0        │
+│ ADATA                                                                            │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/opentelemetry_sdk-1.43.0.dist-info/METAD- │ python-pkg │        0        │
+│ ATA                                                                              │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/opentelemetry_semantic_conventions-0.64b- │ python-pkg │        0        │
+│ 0.dist-info/METADATA                                                             │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/orjson-3.11.9.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/overrides-7.7.0.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/packaging-25.0.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pandas-2.3.3.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/paramiko-5.0.0.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/parso-0.8.7.dist-info/METADATA            │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pathlib-1.0.1.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pathspec-1.1.1.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pexpect-4.9.0.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pfzy-0.3.4.dist-info/METADATA             │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pillow-12.2.0.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pip-26.1.2.dist-info/METADATA             │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pkg_resources/tests/data/my-test-package- │ python-pkg │        0        │
+│ _unpacked-egg/my_test_package-1.0-py3.7.egg/EGG-INFO/PKG-INFO                    │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pkg_resources/tests/data/my-test-package- │ python-pkg │        0        │
+│ _zipped-egg/my_test_package-1.0-py3.7.egg                                        │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/platformdirs-4.10.0.dist-info/METADATA    │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pluggy-1.6.0.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pooch-1.9.0.dist-info/METADATA            │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/portalocker-3.2.0.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/preshed-3.0.13.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/primp-1.3.1.dist-info/METADATA            │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/prometheus_client-0.25.0.dist-info/METAD- │ python-pkg │        0        │
+│ ATA                                                                              │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/prometheus_fastapi_instrumentator-7.0.0.- │ python-pkg │        0        │
+│ dist-info/METADATA                                                               │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/prompt_toolkit-3.0.52.dist-info/METADATA  │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/propcache-0.5.2.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/proto_plus-1.28.0.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/protobuf-6.33.6.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/psutil-7.2.2.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/ptyprocess-0.7.0.dist-info/METADATA       │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pure_eval-0.2.3.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/py_spy-0.4.2.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pyahocorasick-2.3.1.dist-info/METADATA    │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pyarrow-24.0.0.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pyasn1-0.6.3.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pyasn1_modules-0.4.2.dist-info/METADATA   │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pycparser-3.0.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pydantic-2.12.5.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pydantic_core-2.41.5.dist-info/METADATA   │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pydantic_settings-2.14.2.dist-info/METAD- │ python-pkg │        0        │
+│ ATA                                                                              │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pydub-0.25.1.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pygments-2.20.0.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pyjwt-2.13.0.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pynacl-1.6.2.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pyrate_limiter-4.4.0.dist-info/METADATA   │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pyre_extensions-0.0.32.dist-info/METADATA │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pytest-9.1.1.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pytest_xdist-3.8.0.dist-info/METADATA     │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/python_dateutil-2.9.0.post0.dist-info/ME- │ python-pkg │        0        │
+│ TADATA                                                                           │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/python_discovery-1.4.2.dist-info/METADATA │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/python_dotenv-1.2.2.dist-info/METADATA    │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/python_multipart-0.0.32.dist-info/METADA- │ python-pkg │        0        │
+│ TA                                                                               │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pytokens-0.4.1.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pytz-2026.2.dist-info/METADATA            │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pyxlsb-1.0.10.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/pyyaml-6.0.3.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/qwen_agent-0.0.34.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/rank_bm25-0.2.2.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/rapidfuzz-3.14.5.dist-info/METADATA       │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/rarfile-4.2.dist-info/METADATA            │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/ray-2.55.1.dist-info/METADATA             │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/ray/_private/runtime_env/agent/thirdpart- │ python-pkg │        0        │
+│ y_files/aiohappyeyeballs-2.6.1.dist-info/METADATA                                │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/ray/_private/runtime_env/agent/thirdpart- │ python-pkg │        0        │
+│ y_files/aiohttp-3.13.5.dist-info/METADATA                                        │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/ray/_private/runtime_env/agent/thirdpart- │ python-pkg │        0        │
+│ y_files/aiosignal-1.4.0.dist-info/METADATA                                       │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/ray/_private/runtime_env/agent/thirdpart- │ python-pkg │        0        │
+│ y_files/async_timeout-5.0.1.dist-info/METADATA                                   │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/ray/_private/runtime_env/agent/thirdpart- │ python-pkg │        0        │
+│ y_files/attrs-26.1.0.dist-info/METADATA                                          │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/ray/_private/runtime_env/agent/thirdpart- │ python-pkg │        0        │
+│ y_files/frozenlist-1.8.0.dist-info/METADATA                                      │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/ray/_private/runtime_env/agent/thirdpart- │ python-pkg │        0        │
+│ y_files/idna-3.11.dist-info/METADATA                                             │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/ray/_private/runtime_env/agent/thirdpart- │ python-pkg │        0        │
+│ y_files/multidict-6.7.1.dist-info/METADATA                                       │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/ray/_private/runtime_env/agent/thirdpart- │ python-pkg │        0        │
+│ y_files/propcache-0.4.1.dist-info/METADATA                                       │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/ray/_private/runtime_env/agent/thirdpart- │ python-pkg │        0        │
+│ y_files/typing_extensions-4.15.0.dist-info/METADATA                              │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/ray/_private/runtime_env/agent/thirdpart- │ python-pkg │        0        │
+│ y_files/yarl-1.23.0.dist-info/METADATA                                           │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/ray/thirdparty_files/colorama-0.4.6.dist- │ python-pkg │        0        │
+│ -info/METADATA                                                                   │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/ray/thirdparty_files/psutil-7.2.2.dist-i- │ python-pkg │        0        │
+│ nfo/METADATA                                                                     │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/redis-6.4.0.dist-info/METADATA            │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/referencing-0.37.0.dist-info/METADATA     │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/regex-2026.5.9.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/requests-2.34.2.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/requests_oauthlib-2.0.0.dist-info/METADA- │ python-pkg │        0        │
+│ TA                                                                               │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/rich-15.0.0.dist-info/METADATA            │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/rpds_py-0.30.0.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/s3transfer-0.19.0.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/sacrebleu-2.6.0.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/safehttpx-0.1.7.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/safetensors-0.8.0.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/scikit_learn-1.7.2.dist-info/METADATA     │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/scipy-1.15.3.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/sdp-0.1.0.dist-info/METADATA              │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/sec_downloader-0.11.2.dist-info/METADATA  │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/sec_edgar_downloader-5.1.0.dist-info/MET- │ python-pkg │        0        │
+│ ADATA                                                                            │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/sec_parser-0.58.1.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/semantic_version-2.10.0.dist-info/METADA- │ python-pkg │        0        │
+│ TA                                                                               │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/sentence_transformers-5.6.0.dist-info/ME- │ python-pkg │        0        │
+│ TADATA                                                                           │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/sentry_sdk-2.63.0.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/serpapi-1.0.2.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/setuptools-81.0.0.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/setuptools/_vendor/autocommand-2.2.2.dis- │ python-pkg │        0        │
+│ t-info/METADATA                                                                  │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/setuptools/_vendor/backports.tarfile-1.2- │ python-pkg │        0        │
+│ .0.dist-info/METADATA                                                            │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/setuptools/_vendor/importlib_metadata-8.- │ python-pkg │        0        │
+│ 7.1.dist-info/METADATA                                                           │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/setuptools/_vendor/jaraco.text-4.0.0.dis- │ python-pkg │        0        │
+│ t-info/METADATA                                                                  │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/setuptools/_vendor/jaraco_context-6.1.0.- │ python-pkg │        0        │
+│ dist-info/METADATA                                                               │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/setuptools/_vendor/jaraco_functools-4.4.- │ python-pkg │        0        │
+│ 0.dist-info/METADATA                                                             │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/setuptools/_vendor/more_itertools-10.8.0- │ python-pkg │        0        │
+│ .dist-info/METADATA                                                              │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/setuptools/_vendor/packaging-26.0.dist-i- │ python-pkg │        0        │
+│ nfo/METADATA                                                                     │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/setuptools/_vendor/platformdirs-4.4.0.di- │ python-pkg │        0        │
+│ st-info/METADATA                                                                 │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/setuptools/_vendor/tomli-2.4.0.dist-info- │ python-pkg │        0        │
+│ /METADATA                                                                        │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/setuptools/_vendor/wheel-0.46.3.dist-inf- │ python-pkg │        0        │
+│ o/METADATA                                                                       │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/setuptools/_vendor/zipp-3.23.0.dist-info- │ python-pkg │        0        │
+│ /METADATA                                                                        │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/shellingham-1.5.4.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/simple_parsing-0.1.8.dist-info/METADATA   │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/six-1.17.0.dist-info/METADATA             │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/smart_open-7.7.1.dist-info/METADATA       │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/smmap-5.0.3.dist-info/METADATA            │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/sniffio-1.3.1.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/socksio-1.0.0.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/soundfile-0.14.0.dist-info/METADATA       │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/soupsieve-2.8.4.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/sox-1.5.0.dist-info/METADATA              │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/soxr-1.1.0.dist-info/METADATA             │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/spacy-3.8.14.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/spacy_legacy-3.0.12.dist-info/METADATA    │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/spacy_loggers-1.0.5.dist-info/METADATA    │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/srsly-2.5.3.dist-info/METADATA            │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/sse_starlette-3.4.5.dist-info/METADATA    │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/stack_data-0.6.3.dist-info/METADATA       │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/stamina-26.1.0.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/starlette-1.3.1.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/structlog-25.5.0.dist-info/METADATA       │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/syllapy-0.7.2.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/sympy-1.14.0.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/tabulate-0.9.0.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/tavily-1.1.0.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/tempdir-0.7.1.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/tenacity-8.5.0.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/termcolor-3.3.0.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/textdistance-4.6.3.dist-info/METADATA     │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/textsearch-0.0.24.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/thinc-8.3.13.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/threadpoolctl-3.6.0.dist-info/METADATA    │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/tiktoken-0.12.0.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/tokenizers-0.22.2.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/toml-0.10.2.dist-info/METADATA            │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/tomli-2.4.1.dist-info/METADATA            │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/tomlkit-0.14.0.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/torch-2.12.1+cpu.dist-info/METADATA       │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/torchcodec-0.14.0.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/torchx-0.7.0.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/tqdm-4.68.3.dist-info/METADATA            │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/traitlets-5.15.1.dist-info/METADATA       │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/transformers-5.12.1.dist-info/METADATA    │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/tree_sitter-0.25.2.dist-info/METADATA     │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/tree_sitter_java-0.21.0.dist-info/METADA- │ python-pkg │        0        │
+│ TA                                                                               │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/tree_sitter_javascript-0.21.4.dist-info/- │ python-pkg │        0        │
+│ METADATA                                                                         │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/tree_sitter_language_pack-1.10.9.dist-in- │ python-pkg │        0        │
+│ fo/METADATA                                                                      │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/truststore-0.10.4.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/typer-0.26.8.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/types_requests-2.33.0.20260518.dist-info- │ python-pkg │        0        │
+│ /METADATA                                                                        │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/typing_extensions-4.15.0.dist-info/METAD- │ python-pkg │        0        │
+│ ATA                                                                              │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/typing_inspect-0.9.0.dist-info/METADATA   │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/typing_inspection-0.4.2.dist-info/METADA- │ python-pkg │        0        │
+│ TA                                                                               │            │                 │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/tzdata-2026.2.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/unicodedata2-17.0.1.dist-info/METADATA    │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/urllib3-2.7.0.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/uv-0.11.24.dist-info/METADATA             │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/uvicorn-0.49.0.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/virtualenv-21.5.1.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/wandb-0.28.0.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/wasabi-1.1.3.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/wcwidth-0.8.1.dist-info/METADATA          │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/weasel-1.0.0.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/websocket_client-1.9.0.dist-info/METADATA │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/websockets-15.0.1.dist-info/METADATA      │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/webvtt_py-0.5.1.dist-info/METADATA        │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/werkzeug-3.1.8.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/wget-3.2.dist-info/METADATA               │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/wrapt-2.2.2.dist-info/METADATA            │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/writer_sdk-3.0.0.dist-info/METADATA       │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/xai_sdk-1.17.0.dist-info/METADATA         │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/xxhash-3.7.1.dist-info/METADATA           │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/yarl-1.24.2.dist-info/METADATA            │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/zipp-4.1.0.dist-info/METADATA             │ python-pkg │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/bin/uv                                                                 │ rustbinary │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/bin/uvx                                                                │ rustbinary │        0        │
+├──────────────────────────────────────────────────────────────────────────────────┼────────────┼─────────────────┤
+│ usr/local/lib/python3.10/dist-packages/wandb/bin/wandb-core                      │  gobinary  │        0        │
+└──────────────────────────────────────────────────────────────────────────────────┴────────────┴─────────────────┘
+Legend:
+- '-': Not scanned
+- '0': Clean (no security findings detected)
+
+
+nvflow-nemo-skills:v1.1.1-ray (ubuntu 22.04)
+============================================
+Total: 55 (HIGH: 43, CRITICAL: 12)
+
+┌────────────────┬────────────────┬──────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│    Library     │ Vulnerability  │ Severity │  Status  │ Installed Version │ Fixed Version │                            Title                             │
+├────────────────┼────────────────┼──────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ linux-libc-dev │ CVE-2025-68263 │ CRITICAL │ affected │ 5.15.0-185.195    │               │ kernel: ksmbd: ipc: fix use-after-free in                    │
+│                │                │          │          │                   │               │ ipc_msg_send_request                                         │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2025-68263                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-31402 │          │          │                   │               │ kernel: nfsd: fix heap overflow in NFSv4.0 LOCK replay cache │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-31402                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-31637 │          │          │                   │               │ kernel: rxrpc: reject undecryptable rxkad response tickets   │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-31637                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-43011 │          │          │                   │               │ kernel: net/x25: Fix potential double free of skb            │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-43011                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-43037 │          │          │                   │               │ kernel: ip6_tunnel: clear skb2->cb[] in ip4ip6_err()         │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-43037                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-43038 │          │          │                   │               │ kernel: ipv6: icmp: clear skb2->cb[] in                      │
+│                │                │          │          │                   │               │ ip6_err_gen_icmpv6_unreach()                                 │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-43038                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-43185 │          │          │                   │               │ kernel: ksmbd: fix signededness bug in                       │
+│                │                │          │          │                   │               │ smb_direct_prepare_negotiation()                             │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-43185                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-43304 │          │          │                   │               │ kernel: libceph: define and enforce CEPH_MAX_KEY_LEN         │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-43304                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-43501 │          │          │                   │               │ kernel: ipv6: rpl: reserve mac_len headroom when             │
+│                │                │          │          │                   │               │ recompressed SRH grows                                       │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-43501                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-45988 │          │          │                   │               │ kernel: rxrpc: Fix re-decryption of RESPONSE packets         │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-45988                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-46043 │          │          │                   │               │ kernel: RDMA/rxe: Validate pad and ICRC before               │
+│                │                │          │          │                   │               │ payload_size() in rxe_rcv                                    │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-46043                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-46135 │          │          │                   │               │ kernel: nvmet-tcp: fix race between ICReq handling and queue │
+│                │                │          │          │                   │               │ teardown                                                     │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-46135                   │
+│                ├────────────────┼──────────┤          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2024-35870 │ HIGH     │          │                   │               │ kernel: smb: client: fix UAF in smb2_reconnect_server()      │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2024-35870                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2024-53179 │          │          │                   │               │ kernel: smb: client: fix use-after-free of signing key       │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2024-53179                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2024-56692 │          │          │                   │               │ kernel: f2fs: fix to do sanity check on node blkaddr in      │
+│                │                │          │          │                   │               │ truncate_node()...                                           │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2024-56692                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2025-37899 │          │          │                   │               │ kernel: ksmbd: fix use-after-free in session logoff          │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2025-37899                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2025-37924 │          │          │                   │               │ kernel: ksmbd: fix use-after-free in kerberos authentication │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2025-37924                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2025-38118 │          │          │                   │               │ kernel: Linux kernel: Bluetooth MGMT use-after-free          │
+│                │                │          │          │                   │               │ vulnerability allows privilege escalation                    │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2025-38118                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2025-40190 │          │          │                   │               │ kernel: ext4: guard against EA inode refcount underflow in   │
+│                │                │          │          │                   │               │ xattr update                                                 │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2025-40190                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2025-54518 │          │          │                   │               │ kernel: xen: AMD Zen 2 Processors: Privilege escalation via  │
+│                │                │          │          │                   │               │ improper CPU cache...                                        │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2025-54518                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2025-71315 │          │          │                   │               │ kernel: drm/vkms: Convert to DRM's vblank timer              │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2025-71315                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-23240 │          │          │                   │               │ kernel: Linux kernel: Denial of service due to a race        │
+│                │                │          │          │                   │               │ condition in...                                              │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-23240                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-23428 │          │          │                   │               │ kernel: ksmbd: fix use-after-free of share_conf in compound  │
+│                │                │          │          │                   │               │ request                                                      │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-23428                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-23450 │          │          │                   │               │ kernel: net/smc: fix NULL dereference and UAF in             │
+│                │                │          │          │                   │               │ smc_tcp_syn_recv_sock()                                      │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-23450                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-23455 │          │          │                   │               │ kernel: netfilter: nf_conntrack_h323: check for zero length  │
+│                │                │          │          │                   │               │ in DecodeQ931()                                              │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-23455                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-31405 │          │          │                   │               │ kernel: media: dvb-net: fix OOB access in ULE extension      │
+│                │                │          │          │                   │               │ header tables                                                │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-31405                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-31414 │          │          │                   │               │ kernel: Linux kernel (netfilter): Denial of Service via      │
+│                │                │          │          │                   │               │ unsafe connection tracking helper...                         │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-31414                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-31478 │          │          │                   │               │ kernel: ksmbd: replace hardcoded hdr2_len with offsetof() in │
+│                │                │          │          │                   │               │ smb2_calc_max_out_buf_len()                                  │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-31478                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-31536 │          │          │                   │               │ kernel: smb: server: let send_done handle a completion       │
+│                │                │          │          │                   │               │ without IB_SEND_SIGNALED                                     │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-31536                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-31607 │          │          │                   │               │ kernel: usbip: validate number_of_packets in                 │
+│                │                │          │          │                   │               │ usbip_pack_ret_submit()                                      │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-31607                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-31657 │          │          │                   │               │ kernel: batman-adv: hold claim backbone gateways by          │
+│                │                │          │          │                   │               │ reference                                                    │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-31657                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-31659 │          │          │                   │               │ kernel: batman-adv: reject oversized global TT response      │
+│                │                │          │          │                   │               │ buffers                                                      │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-31659                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-31669 │          │          │                   │               │ kernel: mptcp: fix slab-use-after-free in                    │
+│                │                │          │          │                   │               │ __inet_lookup_established                                    │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-31669                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-31705 │          │          │                   │               │ kernel: ksmbd: fix out-of-bounds write in smb2_get_ea() EA   │
+│                │                │          │          │                   │               │ alignment                                                    │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-31705                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-43186 │          │          │                   │               │ kernel: ipv6: ioam: fix heap buffer overflow in              │
+│                │                │          │          │                   │               │ __ioam6_fill_trace_data()                                    │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-43186                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-43198 │          │          │                   │               │ kernel: tcp: fix potential race in tcp_v6_syn_recv_sock()    │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-43198                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-43341 │          │          │                   │               │ kernel: net/ipv6: ioam6: prevent schema length wraparound in │
+│                │                │          │          │                   │               │ trace fill                                                   │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-43341                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-43378 │          │          │                   │               │ kernel: smb: server: fix use-after-free in smb2_open()       │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-43378                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-43406 │          │          │                   │               │ kernel: libceph: prevent potential out-of-bounds reads in    │
+│                │                │          │          │                   │               │ process_message_header()                                     │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-43406                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-43407 │          │          │                   │               │ kernel: libceph: Fix potential out-of-bounds access in       │
+│                │                │          │          │                   │               │ ceph_handle_auth_reply()                                     │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-43407                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-43493 │          │          │                   │               │ kernel: crypto: pcrypt - Fix handling of MAY_BACKLOG         │
+│                │                │          │          │                   │               │ requests                                                     │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-43493                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-46119 │          │          │                   │               │ kernel: libceph: Fix slab-out-of-bounds access in auth       │
+│                │                │          │          │                   │               │ message processing                                           │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-46119                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-46195 │          │          │                   │               │ kernel: smb: client: validate dacloffset before building     │
+│                │                │          │          │                   │               │ DACL pointers                                                │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-46195                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-46259 │          │          │                   │               │ kernel: procfs: fix missing RCU protection when reading      │
+│                │                │          │          │                   │               │ real_parent in do_task_stat()                                │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-46259                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-46273 │          │          │                   │               │ kernel: ibmveth: Disable GSO for packets with small MSS      │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-46273                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-46274 │          │          │                   │               │ kernel: io-wq: check that the predecessor is hashed in       │
+│                │                │          │          │                   │               │ io_wq_remove_pending()                                       │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-46274                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-46275 │          │          │                   │               │ kernel: Bluetooth: hci_uart: fix UAFs and race conditions in │
+│                │                │          │          │                   │               │ close and init...                                            │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-46275                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-46304 │          │          │                   │               │ kernel: nvmet: avoid recursive nvmet-wq flush in             │
+│                │                │          │          │                   │               │ nvmet_ctrl_free                                              │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-46304                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-46319 │          │          │                   │               │ kernel: net/sched: act_ct: Only release RCU read lock after  │
+│                │                │          │          │                   │               │ ct_ft                                                        │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-46319                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-46320 │          │          │                   │               │ kernel: tap: free page on error paths in tap_get_user_xdp()  │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-46320                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-46331 │          │          │                   │               │ kernel: net/sched: act_pedit: extend the writable skb range  │
+│                │                │          │          │                   │               │ per key                                                      │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-46331                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-52909 │          │          │                   │               │ kernel: ip6_vti: set netns_immutable on the fallback device  │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-52909                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-52910 │          │          │                   │               │ kernel: bpf: Free reuseport cBPF prog after RCU grace period │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-52910                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-52911 │          │          │                   │               │ kernel: ksmbd: scope conn->binding slowpath to bound         │
+│                │                │          │          │                   │               │ sessions only                                                │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-52911                   │
+│                ├────────────────┤          │          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                │ CVE-2026-53130 │          │          │                   │               │ kernel: fs/omfs: reject s_sys_blocksize smaller than         │
+│                │                │          │          │                   │               │ OMFS_DIR_START                                               │
+│                │                │          │          │                   │               │ https://avd.aquasec.com/nvd/cve-2026-53130                   │
+└────────────────┴────────────────┴──────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
